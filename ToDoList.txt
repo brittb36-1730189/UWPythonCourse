@@ -1,0 +1,5 @@
+Wash Car,Low
+Do Homework,High
+Go Shopping,Low
+Mow Lawn,Low
+Get Mail,Low
